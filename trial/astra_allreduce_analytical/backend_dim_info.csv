@@ -1,0 +1,11 @@
+RunName,DimensionIndex,AverageChunkLatency
+Transformer_HybridParallel,0,18.322500
+Transformer_HybridParallel,1,25.653000
+Transformer_HybridParallel,2,4.823000
+,,
+,,
+,,
+,,
+,,
+,,
+,,
